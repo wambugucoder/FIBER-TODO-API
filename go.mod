@@ -1,6 +1,6 @@
 module github.com/wambugucoder/fiber-todo-api
 
-go 1.15
+go 1.19
 
 require (
 	github.com/Kamva/mgm/v3/v3 v3.1.0
